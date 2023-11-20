@@ -1,11 +1,11 @@
 ## Hi Devs 👋
 
-#### Meu nome é Karine, Seja Bem vindo(a)! 🥰 
-- Sou de São Paulo, Brasil
-- Estudante de Curso Superior em Digital Security
+#### Meu nome é Karine, Seja Bem vindo(a)! 🥰 🏳️‍🌈
+📌   Sou de São Paulo - Brasil 🇧🇷
+🎓📚 Estudante de Curso Superior em Digital Security 🔒
+💜   Apaixonada por Livros, Games, Idiomas e Tecnologia  💜
 
-## Algumas Linguagens que utilizo:
-[https://ptython.org/] 
+
 
 <!--
 **karineyasmin/karineyasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
