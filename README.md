@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi Devs 👋
 
+## Meu nome é Karine, Seja Bem vindo(a)! 🥰 
+- Sou de São Paulo, Brasil
+- Estudante de Curso Superior em Digital Security
 <!--
 **karineyasmin/karineyasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
