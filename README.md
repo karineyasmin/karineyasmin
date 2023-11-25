@@ -8,8 +8,7 @@
 ### Aqui você encontrará algumas linguagens e tecnologias que estou aprendendo, como:
   
 
-<img  widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<a href="" ><img widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+<img  widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><a href="" ><img widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
 
           
 
