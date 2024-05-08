@@ -6,7 +6,7 @@
 - 💜   Apaixonada por Livros, Games, Idiomas e Tecnologia  💜
 
 ### Back-end:
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)  [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)  [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/) [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/))
           
 ### Tecnologias:
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
