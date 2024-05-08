@@ -2,15 +2,14 @@
 
 #### Meu nome é Karine, Seja Bem vindo(a)! 🥰 🏳️‍🌈
 - 📌   Sou de São Paulo - Brasil 🇧🇷
-- 🎓 Estudante de Curso Superior em **Digital Security** 🔒
+- 🎓 Estudante de Curso Superior em **Coding** 🔒
 - 💜   Apaixonada por Livros, Games, Idiomas e Tecnologia  💜
 
 ### Back-end:
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)  [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/) [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/))
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)  [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)  [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)  [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
           
 ### Tecnologias:
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)  [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)  [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)  [![SqLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
 ### Minhas redes Sociais:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ka.yas_)  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/karine-yasmin)  
 
