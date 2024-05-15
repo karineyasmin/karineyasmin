@@ -7,7 +7,7 @@
 - 💜   Apaixonada por Livros, Games, Idiomas e Tecnologia  💜
 
 ### Back-end:
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)  [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)  [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)  [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)  [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)  [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/) [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
           
 ### Tecnologias:
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)  [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)  [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)  [![SqLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
