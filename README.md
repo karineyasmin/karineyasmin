@@ -1,9 +1,10 @@
 ## Hi Devs 👋
 
-#### Meu nome é Karine, Seja Bem vindo(a)! 🥰 🏳️‍🌈
-- 📌   Sou de São Paulo - Brasil 🇧🇷
-- 🎓 Estudante de Curso Superior em **Coding**
-- Pythonista 🐍 💙💛
+#### Seja Bem vindo(a)! 🥰 
+- 🏳️‍🌈     Me chamo **Karine Yasmin**
+- 📌     Sou de São Paulo - Brasil 🇧🇷
+- 🎓     Estudante de Curso Superior em **Coding**
+- 🐍   **Pythonista**  💙💛
 - 💜   Apaixonada por Livros, Games, Idiomas e Tecnologia  💜
 
 ### Back-end:
