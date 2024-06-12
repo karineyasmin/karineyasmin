@@ -10,8 +10,6 @@
 ### Back-end:
 [![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org/pt/) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)  [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)  [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/) [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 
-### Front-end:
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ### Tecnologias:
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)  [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)  [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)  [![SqLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
