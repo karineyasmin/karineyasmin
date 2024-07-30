@@ -1,9 +1,8 @@
-## Hi Devs 👋
+![](https://github.com/karineyasmin/karineyasmin/blob/main/header.png?raw=true)
 
-#### Seja Bem vindo(a)! 🥰 
-- 🏳️‍🌈     Me chamo **Karine Yasmin**
+🏳️‍🌈  
 - 📌     Sou de São Paulo - Brasil 🇧🇷
-- 🎓     Estudante de Curso Superior em **Coding**
+<!-- - 🎓     Estudante de Curso Superior em **Coding** -->
 - 🐍   **Pythonista**  💙💛
 - 💜   Apaixonada por Livros, Games, Idiomas e Tecnologia  💜
 
@@ -16,15 +15,16 @@
 ### Minhas redes Sociais:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ka.yas_)  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/karine-yasmin)  
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kariineyasmin&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=121212&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=kariineyasmin&redirect=true)
 
-
-
-### Contato:
-<a href="mailto:karine.yasmin@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
 
 
 <!-- 
+
+### Contato:
+<a href="mailto:karine.yasmin@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+
 ### Estatisticas
 <div>
 <a href="https://github.com/karineyasmin">
