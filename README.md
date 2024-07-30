@@ -8,7 +8,7 @@
 - 💜   Apaixonada por Livros, Games, Idiomas e Tecnologia  💜
 
 ### Back-end:
-[![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org/pt/) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)  [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)  [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/) [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+[![Golang](https://skillicons.dev/icons?i=go)](https://go.dev/)  [![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org/pt/) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)  [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)  [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/) [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 
 
 ### Tecnologias:
