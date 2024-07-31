@@ -1,6 +1,5 @@
 ![](https://github.com/karineyasmin/karineyasmin/blob/main/lang.gif)
 - 📌     Sou de São Paulo - Brasil 🇧🇷
-<!-- - 🎓     Estudante de Curso Superior em **Coding** -->
 - 🐍   **Pythonista**  💙💛
 - 💜   Apaixonada por Livros, Games, Idiomas e Tecnologia  💜
 
@@ -18,7 +17,9 @@
 
 
 
+
 <!-- 
+🎓     Estudante de Curso Superior em **Coding**
 
 ### Contato:
 <a href="mailto:karine.yasmin@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
