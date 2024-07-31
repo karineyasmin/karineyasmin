@@ -1,6 +1,4 @@
-![](https://github.com/karineyasmin/karineyasmin/blob/main/header.png?raw=true)
 
-🏳️‍🌈  
 - 📌     Sou de São Paulo - Brasil 🇧🇷
 <!-- - 🎓     Estudante de Curso Superior em **Coding** -->
 - 🐍   **Pythonista**  💙💛
