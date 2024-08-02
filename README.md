@@ -12,6 +12,8 @@
 ### Minhas redes Sociais:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ka.yas_)  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/karine-yasmin)  
 
+
+### 🎧
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kariineyasmin&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=121212&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=kariineyasmin&redirect=true)
 
 
