@@ -3,12 +3,9 @@
 - 🐍   **Pythonista**  💙💛
 - 💜   Apaixonada por Livros, Games, Idiomas e Tecnologia  💜
 
-### Back-end:
-[![Golang](https://skillicons.dev/icons?i=go)](https://go.dev/)  [![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org/pt/) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)  [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)  [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/) [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+[![Golang](https://skillicons.dev/icons?i=go)](https://go.dev/)  [![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org/pt/) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)  [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)  [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/) [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)  [![HTML](https://skillicons.dev/icons?i=html)]()  [![CSS](https://skillicons.dev/icons?i=css)]()  [![BootStrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)  [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)  [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)  [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)  [![SqLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)  [![Bash](https://skillicons.dev/icons?i=bash)]() [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)]()  [![VsCode](https://skillicons.dev/icons?i=vscode)]()
 
 
-### Tecnologias:
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)  [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)  [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)  [![SqLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
 ### Minhas redes Sociais:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ka.yas_)  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/karine-yasmin)  
 
