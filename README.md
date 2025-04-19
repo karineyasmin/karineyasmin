@@ -9,6 +9,12 @@
 ### Minhas Redes Sociais:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ka.yas_)  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/karine-yasmin)  
 
+### Estatisticas
+<div>
+<a href="https://github.com/karineyasmin">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karineyasmin&layout=compact&langs_count=7&theme=dracula"/>
+
+
 
 ### 🎧 O que tem rolado no meu Spotify:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kariineyasmin&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=121212&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=kariineyasmin&redirect=true)
@@ -18,15 +24,11 @@
 
 
 <!-- 
-🎓     Estudante de Curso Superior em **Coding**
 
 ### Contato:
 <a href="mailto:karine.yasmin@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
-### Estatisticas
-<div>
-<a href="https://github.com/karineyasmin">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karineyasmin&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=karineyasmin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div> -->
+
 
