@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,cs,dotnet,py,django,flask,fastapi,git,github,docker,rabbitmq,mongodb,mysql,postgres,bash,linux,ubuntu,vscode,postman" alt="Technologies and Tools" style="margin: 0.5px;" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,flask,fastapi,git,github,docker,rabbitmq,mongodb,mysql,postgres,bash,linux,ubuntu,vscode,postman" alt="Technologies and Tools" style="margin: 0.5px;" />
 </div>
 
 ### 📍 About Me
