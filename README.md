@@ -17,15 +17,11 @@
 - 💜 Passionate about **📚 Books**, **🕹️ Games**, **🗣️ Languages**, **💻 Technology**  and **🗺️ Geography**
 - 🎯 Always looking for new challenges and learning opportunities!
   
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph.svg">
 </picture>
-
-
----
 
 
 <details>
@@ -38,8 +34,6 @@
     <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=karineyasmin&theme=dark" alt="GitHub Streak"/>
   </div>
 </details>
-
----
 
 
 <details>
