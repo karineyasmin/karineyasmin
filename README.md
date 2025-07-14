@@ -7,22 +7,18 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,flask,fastapi,git,github,docker,rabbitmq,mongodb,mysql,postgres,bash,linux,ubuntu,vscode,postman" alt="Technologies and Tools" style="margin: 0.5px;" />
 </div>
-
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph.svg">
-</picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
 ---
 ### 📍 About Me
 - 🌍 I'm from **São Paulo - Brazil** 🇧🇷  
 - 💻 I work as a **Backend Developer**  
 - 💜 Passionate about **📚 Books**, **🕹️ Games**, **🗣️ Languages**, **💻 Technology**  and **🗺️ Geography**
 - 🎯 Always looking for new challenges and learning opportunities!
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph.svg">
+</picture>
 ---
 <details>
   <summary>📊 GitHub Stats</summary>
