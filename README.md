@@ -36,7 +36,7 @@
 
 <details>
 <summary>🎧 What's Playing on my Spotify </summary>
-<div align="center">
+<div>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kariineyasmin&redirect=true">
     <img loading="lazy" src="https://spotify-github-profile.kittinanx.com/api/view?uid=kariineyasmin&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=121212&bar_color_cover=true" alt="Spotify Now Playing"/>
   </a>
