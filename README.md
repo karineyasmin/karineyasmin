@@ -9,8 +9,6 @@
 </div>
 
 
----
-
 ### 📍 About Me
 - 🌍 I'm from **São Paulo - Brazil** 🇧🇷  
 - 💻 I work as a **Backend Developer**  
