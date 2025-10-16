@@ -14,14 +14,13 @@
 - 💜 Passionate about **📚 Books**, **🕹️ Games**, **🗣️ Languages**, **💻 Technology**  and **🗺️ Geography**
 - 🎯 Always looking for new challenges and learning opportunities!
   
+<!-- 
+pacman
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph.svg">
-</picture>
-
-### Minha Atividade Recente (Jogo da Cobrinha)
-
+</picture> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
