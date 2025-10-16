@@ -4,11 +4,11 @@
   <p style="margin: 0;">Backend & Big Data Developer</p>
 </div>
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,flask,fastapi,git,github,docker,rabbitmq,mongodb,mysql,postgres,bash,linux,ubuntu,vscode,postman" alt="Technologies and Tools" style="margin: 0.5px;" />
 </div>
 
-### 📍 About Me
+###                                                                 📍 About Me
 - 🌍 I'm from **São Paulo - Brazil** 🇧🇷  
 - 💻 I work as a **Backend Developer**  
 - 💜 Passionate about **📚 Books**, **🕹️ Games**, **🗣️ Languages**, **💻 Technology**  and **🗺️ Geography**
