@@ -20,7 +20,13 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph.svg">
 </picture>
 
+### Minha Atividade Recente (Jogo da Cobrinha)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
 <details>
   <summary>📊 GitHub Stats</summary>
   <div align="center">
