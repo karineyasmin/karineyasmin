@@ -1,0 +1,37 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    # Executa a cada 12 horas (Você pode ajustar)
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      # 1. Checkout do repositório
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      # 2. Gera a animação da cobrinha
+      - name: Generate GitHub Snake SVG
+        uses: Platane/snk@v3
+        with:
+          # Seu nome de usuário do GitHub (obrigatório)
+          github_user_name: ${{ github.repository_owner }}
+          # Arquivos de saída
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # 3. Commita e envia as novas imagens
+      - name: Commit and Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          # Mensagem do commit
+          message: 'Generate snake game animation'
+          # Arquivos a serem adicionados
+          add: 'dist/github-snake.svg dist/github-snake-dark.svg'
