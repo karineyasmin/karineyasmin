@@ -4,11 +4,11 @@
   <p style="margin: 0;">Backend & Big Data Developer</p>
 </div>
 
-<!-- <div>
+
   <img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,flask,fastapi,git,github,docker,rabbitmq,mongodb,mysql,postgres,bash,linux,ubuntu,vscode,postman" alt="Technologies and Tools" style="margin: 0.5px;" />
-</div> -->
 
 
+<!--
 <div align="center">
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
@@ -34,7 +34,7 @@
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" title="PyCharm"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 </div>
-
+-->
 ###                                                                 📍 About Me
 - 🌍 I'm from **São Paulo - Brazil** 🇧🇷  
 - 💻 I work as a **Backend Developer**  
