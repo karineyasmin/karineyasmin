@@ -1,7 +1,7 @@
 <div align="center">
 <!--   <img src="https://github.com/karineyasmin/karineyasmin/blob/main/lang.gif" alt="Welcome Banner" width="100%"/> -->
   <h1 style="margin: 0;">👩🏻‍💻 Karine Yasmin</h1>
-  <p style="margin: 0;">Backend & Big Data Developer</p>
+  <p style="margin: 0;">Backend, Data & GenAi Developer</p>
 </div>
 <!--
 <div align="center">
