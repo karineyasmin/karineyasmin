@@ -63,13 +63,7 @@
 ![image](https://img.shields.io/badge/qgis-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
 
 </div>
-<!--
-pacman
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph.svg">
-</picture> -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
@@ -77,7 +71,7 @@ pacman
 </picture>
 
 <details>
-<summary>🎧 What's Playing on my Spotify </summary>
+<summary><b>🎧 What's Playing on my Spotify</b></summary>
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kariineyasmin&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kariineyasmin&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=121212&bar_color_cover=true" alt="Spotify Now Playing"/>
@@ -123,3 +117,11 @@ pacman
   <img src="https://skillicons.dev/icons?i=py,flask,fastapi,cs,dotnet,git,github,docker,bash,linux,ubuntu,vscode,postman" alt="Technologies and Tools" style="margin: 0.5px;" />
 </div>
 -->
+
+<!--
+pacman
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karineyasmin/karineyasmin/output/pacman-contribution-graph.svg">
+</picture> -->
