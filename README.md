@@ -19,7 +19,7 @@
     </td>
     <td valign="top" width="50%">
       <div align="center">
-        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=karineyasmin&layout=compact&langs_count=8&theme=synthwave" alt="Top Languages"/>
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=karineyasmin&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
       </div>
     </td>
   </tr>
