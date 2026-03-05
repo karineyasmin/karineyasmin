@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="margin: 0;">👩🏻‍💻 Karine Yasmin</h1>
-  <h2 style="margin: 0;"><b>Backend, Data & AI Developer</b>
+  <h2 style="margin: 0;"><b>Software & AI Engineer</b>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
       <br>
       <ul>
         <li>🌍 I'm from <b>São Paulo - Brazil</b> 🇧🇷</li>
-        <li>💻 I work as a <b>Backend Developer</b></li>
+        <li>💻 I work as a <b>AI Engineer</b></li>
         <li>💜 Passionate about <b>📚 Books</b>, <b>🕹️ Games</b>, <b>🗣️ Languages</b>, <b>💻 Technology</b> and <b>🗺️ Geography</b></li>
         <li>🎯 Always looking for new challenges and learning opportunities!</li>
       </ul>
